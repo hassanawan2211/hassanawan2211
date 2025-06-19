@@ -14,8 +14,8 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehzad78675&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shehzad78675?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=hassanawan2211&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hassanawan2211?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 ---
@@ -94,12 +94,12 @@ I'm a dedicated **Software Engineer** specializing in modern web development and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzad78675&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanawan2211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanawan2211&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehzad78675&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanawan2211&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ I'm a dedicated **Software Engineer** specializing in modern web development and
   <a href="https://linkedin.com/in/ali-hassan487" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:alihassan1811@gmail.com">
+  <a href="mailto:alihassanawan1811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
